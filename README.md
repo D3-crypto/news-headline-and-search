@@ -28,7 +28,7 @@ This Python application allows users to either fetch the latest news headlines o
 1. Run the application:
 
     ```bash
-    python main.py
+    python news_headline.py
     ```
 
 2. When prompted, choose whether to search for a specific topic or get the latest headlines:
