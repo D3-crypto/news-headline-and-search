@@ -18,26 +18,10 @@ This Python application allows users to either fetch the latest news headlines o
     cd news-headlines-topic-searcher
     ```
 
-2. Create a virtual environment (optional but recommended):
 
-    ```bash
-    python3 -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
 
-3. Install the required packages:
+2. Obtain a NewsAPI key by signing up at [NewsAPI](https://newsapi.org/register).
 
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Obtain a NewsAPI key by signing up at [NewsAPI](https://newsapi.org/register).
-
-5. Create a `.env` file in the project directory and add your API key:
-
-    ```bash
-    NEWS_API_KEY=your_newsapi_key_here
-    ```
 
 ## Usage
 
