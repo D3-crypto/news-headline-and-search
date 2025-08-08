@@ -1,1 +1,1 @@
-newsapi==0.2.7
+newsapi-python==0.2.7
